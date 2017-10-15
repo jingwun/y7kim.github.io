@@ -1,4 +1,4 @@
-My Portfolio
+Jingwun Moore
 =========================
 
 Powered by Jekyll
