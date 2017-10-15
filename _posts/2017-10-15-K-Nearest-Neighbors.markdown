@@ -3,7 +3,7 @@ layout: default
 modal-id: 0
 date: 2017-10-15
 img: angular-invasive-preview.png
-alt: Angular
+alt: Supervised Machine Learning
 project-date: October 2017
 client: N/A
 clienturl: https://github.com/y7kim/jekyll-angular-demo
